@@ -1,0 +1,10 @@
+PODS:
+  - SHMKit (0.1.2)
+
+DEPENDENCIES:
+  - SHMKit (~> 0.1.2)
+
+SPEC CHECKSUMS:
+  SHMKit: ed7b70ce1fa857b4d55aaed3bb0fa378091794d1
+
+COCOAPODS: 0.34.4
